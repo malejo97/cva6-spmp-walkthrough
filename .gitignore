@@ -1,0 +1,6 @@
+bao-baremetal-guest/build
+bao-baremetal-guest2/build
+bao-hypervisor/bin
+bao-hypervisor/build
+opensbi/build
+output
